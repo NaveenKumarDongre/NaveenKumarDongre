@@ -10,10 +10,10 @@ I am Naveen Kumar Dongre from India .A third-year undergraduate pursuing my B.Te
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/naveenkumardongre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/naveenkumardongre/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/naveen_invincible_plr_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naveen_invincible_plr_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/naveen_kumar_dongre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/naveen_kumar_dongre/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mrxmysterious/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrxmysterious/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naveenkumardongre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/naveenkumardongre/" height="30" width="40" /></a>
+<a href="https://instagram.com/naveen_invincible_plr_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naveen_invincible_plr_/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/naveen_kumar_dongre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/naveen_kumar_dongre/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mrxmysterious/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mrxmysterious/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
