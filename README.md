@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar Dongre</h1>
 <h3 align="center">A passionate Computer Science Student,</h3>
-I am Naveen Kumar Dongre from India .A Final-year undergraduate pursuing my B.Tech in Computer Science from Modern Education Society College of Engineering, Pune.I really enjoy learning languages and various technologies related Web Development,Machine learning ,Data Science. As well as I love solving coding problems.
+I am Naveen Kumar Dongre from India Undergraduate pursuing my B.Tech in Computer Science from Modern Education Society College of Engineering, Pune.I really enjoy learning languages and various technologies related Web Development,Machine learning ,Data Science. As well as I love solving coding problems.
 
 - 🌱 I’m currently learning **Django**
 
